@@ -17,14 +17,14 @@
 #### Open Source
 
 - [NHocr](http://osdn.jp/projects/nhocr/)
-  * [紹介文](http://osdn.jp/projects/nhocr/docs/about-140830/ja/19/about-140830.html)に「実験的な意味が強く、高性能なOCRが必要なら製品を買うべき」と書かれている...
-  * [試用記事](http://qiita.com/awakia/items/3e1c7eb7da39e64de3a6)
+    * [紹介文](http://osdn.jp/projects/nhocr/docs/about-140830/ja/19/about-140830.html)に「実験的な意味が強く、高性能なOCRが必要なら製品を買うべき」と書かれている...
+    * [試用記事](http://qiita.com/awakia/items/3e1c7eb7da39e64de3a6)
 
 
 #### 商用
 
 - [e.Typist(メディアドライブ)](http://mediadrive.jp/products/et/)
-  * 利用されている工作員の方のブログ記事 [その1](http://www.aozora.gr.jp/aozorablog/?p=294)、[その2](http://www.aozora.gr.jp/aozorablog/?p=565)、[その3](http://door2summer.cocolog-nifty.com/blog/2014/01/ocrhtml-5a99.html)
+    * 利用されている工作員の方のブログ記事 [その1](http://www.aozora.gr.jp/aozorablog/?p=294)、[その2](http://www.aozora.gr.jp/aozorablog/?p=565)、[その3](http://door2summer.cocolog-nifty.com/blog/2014/01/ocrhtml-5a99.html)
 - [読取革命(パナソニック)](http://www.panasonic.com/jp/company/pstc/products/yomikaku.html)
 - [本格読取(ソースネクスト)](http://www.sourcenext.com/product/pc/use/pc_use_000941/)
 - [Acrobat Pro(Adobe)](https://acrobat.adobe.com/jp/ja/products/acrobat-pro.html)
