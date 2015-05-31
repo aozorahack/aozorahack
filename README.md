@@ -8,6 +8,9 @@ aozorahack全般に関するissue/wiki用リポジトリです（いわゆるメ
 
 ## Issues
 
-一覧: https://github.com/aozorahack/aozorahack/issues
+- 一覧: https://github.com/aozorahack/aozorahack/issues
+- 新規: https://github.com/aozorahack/aozorahack/issues/new
 
-新規: https://github.com/aozorahack/aozorahack/issues/new
+## Resources
+
+- [青空文庫関連ツールのリスト](tools.md)
