@@ -12,6 +12,24 @@
 
 - [結城さんによる「青空文庫の応援ページ」](http://www.hyuki.com/aozora/) - 旧字体置換可能チェッカー「校閲君」ほか
 
+### 日本語OCRツール
+
+#### Open Source
+
+- [NHocr](http://osdn.jp/projects/nhocr/)
+  * [紹介文](http://osdn.jp/projects/nhocr/docs/about-140830/ja/19/about-140830.html)に「実験的な意味が強く、高性能なOCRが必要なら製品を買うべき」と書かれている...
+  * [試用記事](http://qiita.com/awakia/items/3e1c7eb7da39e64de3a6)
+
+
+#### 商用
+
+- [e.Typist](http://mediadrive.jp/products/et/)
+  * 利用されている工作員の方のブログ記事 [その1](http://www.aozora.gr.jp/aozorablog/?p=294)、[その2](http://www.aozora.gr.jp/aozorablog/?p=565)、[その3](http://door2summer.cocolog-nifty.com/blog/2014/01/ocrhtml-5a99.html)
+- パナソニックの読取革命
+- ソースネクスト社の本格読取
+- Acrobat Pro
+
+
 ## 外字関連
 
 - [グリフウィキ・青空文庫外字](http://glyphwiki.org/wiki/Group:%E9%9D%92%E7%A9%BA%E6%96%87%E5%BA%AB%E5%A4%96%E5%AD%97)
