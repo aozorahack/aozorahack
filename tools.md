@@ -23,11 +23,11 @@
 
 #### 商用
 
-- [e.Typist](http://mediadrive.jp/products/et/)
+- [e.Typist(メディアドライブ)](http://mediadrive.jp/products/et/)
   * 利用されている工作員の方のブログ記事 [その1](http://www.aozora.gr.jp/aozorablog/?p=294)、[その2](http://www.aozora.gr.jp/aozorablog/?p=565)、[その3](http://door2summer.cocolog-nifty.com/blog/2014/01/ocrhtml-5a99.html)
-- パナソニックの読取革命
-- ソースネクスト社の本格読取
-- Acrobat Pro
+- [読取革命(パナソニック)](http://www.panasonic.com/jp/company/pstc/products/yomikaku.html)
+- [本格読取(ソースネクスト)](http://www.sourcenext.com/product/pc/use/pc_use_000941/)
+- [Acrobat Pro(Adobe)](https://acrobat.adobe.com/jp/ja/products/acrobat-pro.html)
 
 
 ## 外字関連
