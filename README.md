@@ -11,6 +11,12 @@ aozorahack全般に関するissue/wiki用リポジトリです（いわゆるメ
 - 一覧: https://github.com/aozorahack/aozorahack/issues
 - 新規: https://github.com/aozorahack/aozorahack/issues/new
 
+## Projects
+
+#### 工作院 (kosakuin) https://github.com/aozorahack/kosakuin
+
+アイデアソンで提案された「オープンソースの文書入力・校正システムを作る件について」のプロジェクトです。
+
 ## Resources
 
 - [青空文庫関連ツールのリスト](tools.md)
