@@ -11,6 +11,10 @@ aozorahack全般に関するissue/wiki用リポジトリです（いわゆるメ
 - 一覧: https://github.com/aozorahack/aozorahack/issues
 - 新規: https://github.com/aozorahack/aozorahack/issues/new
 
+## slack
+
+https://aozorahack.slack.com/ を作成しました。メインのやりとりはgithubで実施しますが、ブレストや雑談はslackでもできればと思っています。参加希望者は招待を希望するメアドを @kskktk までお送りください。メアドはkatsuki@miau.jpです。
+
 ## Projects
 
 #### 工作院 (kosakuin) https://github.com/aozorahack/kosakuin
