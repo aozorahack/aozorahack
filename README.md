@@ -23,3 +23,4 @@ https://aozorahack.slack.com/ を作成しました。メインのやりとり�
 ## Resources
 
 - [青空文庫関連ツールのリスト](tools.md)
+- [青空文庫の「仕様書」](specs/README.md)
