@@ -12,6 +12,11 @@
 
 - [結城さんによる「青空文庫の応援ページ」](http://www.hyuki.com/aozora/) - 旧字体置換可能チェッカー「校閲君」ほか
 
+### エディタプラグイン
+
+- mi (Mac) - [青空文庫モード](http://fairfield.minibird.jp/other_resources/mi-%E7%94%A8-%E9%9D%92%E7%A9%BA%E6%96%87%E5%BA%AB%E3%83%A2%E3%83%BC%E3%83%89)
+- Mery (Win) - [青空文庫用整形補助](http://www.haijin-boys.com/wiki/%E9%9D%92%E7%A9%BA%E6%96%87%E5%BA%AB%E7%94%A8%E6%95%B4%E5%BD%A2%E8%A3%9C%E5%8A%A9)
+
 ### 日本語OCRツール
 
 #### Open Source
