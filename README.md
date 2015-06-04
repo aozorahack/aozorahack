@@ -20,6 +20,14 @@ https://aozorahack.slack.com/ を作成しました。メインのやりとり�
 
 アイデアソンで提案された「オープンソースの文書入力・校正システムを作る件について」のプロジェクトです。
 
+#### 青空文庫の仕様書 (specs) https://github.com/aozorahack/specs
+
+青空文庫の技術的な「仕様」をまとめて文書化するためのレポジトリです。
+
+#### アイデアソン (ideathon) https://github.com/aozorahack/ideathon
+
+アイデアソンの資料置き場です。
+
 ## Resources
 
 - [青空文庫関連ツールのリスト](tools.md)
