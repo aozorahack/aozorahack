@@ -7,6 +7,7 @@
 - 公式ツール [txt2xhtml (青空文庫 組版案内)](http://kumihan.aozora.gr.jp/slabid-14.htm) - [Google Code](https://code.google.com/p/aozora-collection/source/browse/) - Ruby
 - [青空文庫テキスト→ePub3変換](https://github.com/hmdev/AozoraEpub3/) - Java
 - [Aozora-bunko ruby parser](https://www.npmjs.com/package/aozora-ruby-parser) - JavaScript
+- [aozora-proc.el](https://github.com/kawabata/aozora-proc) - Emacs Lisp
 
 ## 入力・校正関係
 
@@ -16,6 +17,8 @@
 
 - mi (Mac) - [青空文庫モード](http://fairfield.minibird.jp/other_resources/mi-%E7%94%A8-%E9%9D%92%E7%A9%BA%E6%96%87%E5%BA%AB%E3%83%A2%E3%83%BC%E3%83%89)
 - Mery (Win) - [青空文庫用整形補助](http://www.haijin-boys.com/wiki/%E9%9D%92%E7%A9%BA%E6%96%87%E5%BA%AB%E7%94%A8%E6%95%B4%E5%BD%A2%E8%A3%9C%E5%8A%A9)
+- Emacs - [aozora-view :: 青空文庫テキスト表示モード](https://github.com/kawabata/aozora-view)
+- Emacs - [aozora-helper-mode.el](http://www.geocities.jp/tamiyagi2/aozora-helper-mode.el)
 
 ### 日本語OCRツール
 
