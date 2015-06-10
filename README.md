@@ -28,6 +28,15 @@ https://aozorahack.slack.com/ を作成しました。メインのやりとり�
 
 アイデアソンの資料置き場です。
 
+#### aozoraflow  https://github.com/aozorahack/aozoraflow
+
+「青空文庫のテキストをGitリポジトリで管理する為の運用規約」と「それをサポートするためのツール」です。
+
+#### aozora-parser.js  https://github.com/aozorahack/aozora-parser.js
+
+青空文庫テキストフォーマットのパーサーです。
+
+
 ## Resources
 
 - [青空文庫関連ツールのリスト](tools.md)
