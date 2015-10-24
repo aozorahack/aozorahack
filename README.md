@@ -1,4 +1,4 @@
-# aozorahack [![slack](https://aozorahackinvitation.herokuapp.com/badge.svg)](https://aozorahackinvitation.herokuapp.com)
+# aozorahack [![slack](https://aozoraslackin.herokuapp.com/badge.svg)](https://aozoraslackin.herokuapp.com)
 
 aozorahack全般に関するissue/wiki用リポジトリです（いわゆるメタリポジトリ）。
 
