@@ -20,6 +20,10 @@ https://aozorahack.slack.com/ を作成しました。メインのやりとり�
 
 ## Projects
 
+新しくプロジェクトを作りたい人は、[新規プロジェクト（リポジトリ）を作るには](project.md)をご覧ください。
+
+現在活動中のプロジェクトは以下になります。
+
 ### [工作院 (kosakuin)](https://github.com/aozorahack/kosakuin)
 
 アイデアソンで提案された「オープンソースの文書入力・校正システムを作る件について」のプロジェクトです。
